@@ -4,4 +4,4 @@ i hope u like it :))
 
 
 
-⚠️Do not crypt/decrypt a folder if there is a key file ⚠️
+⚠️Do not crypt/decrypt a folder if there is a key file, i will resolve this problem soon⚠️
